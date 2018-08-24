@@ -19,5 +19,4 @@ Finally, we will use the example image in the first step of the project and we w
 For a comparison, we will also leverage code from the second lab, and approximate the image using Fourier transform. We will attempt to keep approximately the same compression rate for this technique, such that we need the same number of bits for each image (notice though that in both cases there are still options to optimize for the compression, although this is beyond the scope of this project).
 
 Proceed with visualizing the results using the script *Laplacian_encoding.m*. You can see the effect that different options have on the SNR of the image, as well as on quantitative aspects of the output (smoothing, high frequency details, noise, etc).
-
 ![alt text](https://github.com/sandeepgogadi/Computer-Vision-Matlab/blob/master/Laplacian%20Pyramid%20for%20Image%20Encoding/output.png "Output Image")
