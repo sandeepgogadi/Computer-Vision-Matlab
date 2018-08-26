@@ -1,11 +1,12 @@
 [back to]()
+
 [back to]()
 
 # Poisson Image Editing
 
 This project focuses on the gradient domain blending based on poisson equation. The goal of this part is to create a blended image that is partially cloned from the source image. We can learn the application of poisson equation and how to solve a sparse linear system. We will follow the technique described in the following paper:"Poisson Image Editing", Perez, P., Gangnet, M., Blake, A. SIGGRAPH 2003
 
-Mixing Gradients
+### Mixing Gradients
 
 It discusses the mixing gradients method in section 3, The goal is seamlessly blend two images together automatically given the blending region. As shown in the figure 1, the red line mark the blending region.
 
@@ -17,7 +18,7 @@ The replacement pixels intensity are solved by the linear system. But not all th
 
 ![alt text](https://github.com/sandeepgogadi/Computer-Vision-Matlab/blob/master/Poisson%20Image%20Editing/output.png "Mixing Gradients")
 
-Texture Flattening
+### Texture Flattening
 
 The paper discusses the texture flattening method in section 4.
 

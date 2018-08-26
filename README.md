@@ -10,7 +10,6 @@
 
 [6. SVM for People Detection](https://github.com/sandeepgogadi/Computer-Vision-Matlab/tree/master/SVM%20for%20People%20Detection)
 
-[7. Neural Networks]()
+[7. Neural Networks](https://github.com/sandeepgogadi/Computer-Vision-Matlab/tree/master/Neural%20Nets)
 
-[8. Neural Network based Reinforcement Learning]()
-
+[8. Neural Network based Reinforcement Learning](https://github.com/sandeepgogadi/Computer-Vision-Matlab/tree/master/Neural%20Network%20Based%20Reinforcement%20Learning)
