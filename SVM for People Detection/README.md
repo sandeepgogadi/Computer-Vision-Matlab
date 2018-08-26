@@ -1,3 +1,9 @@
+[back to]()
+[back to]()
+
+
+# SVM for People Detection
+
 In this project, we will use Support Vector Machines (SVM) model to build a model that can detect if there are people in the image. For instance, we want our model to be able to predict that there are people in the image.
 
 Standardizing the data
@@ -20,6 +26,3 @@ Histogram Intersection Kernel
 
 Even though the polynomial kernel function is more complex than the linear kernel function, as indicated by the testing accuracy, it does not make SVM model much more powerful. We will now use a more sophisticated kernel function refered to as the histogram intersection kernel. We will observe that using the histogram intersection kernel to train our SVM model will alow us to obtain a model that performs about 4% better than the previous model.
 Accuracy = 93.53%
-
-
-
