@@ -1,7 +1,6 @@
-[back to]()
+[back to Robotics Playground](https://github.com/sandeepgogadi/Robotics-Playground)
 
-[back to]()
-
+[back to Computer Vision Matlab](https://github.com/sandeepgogadi/Computer-Vision-Matlab)
 # Image Morphing
 
 This project focuses on image morphing techniques and specifically, image morphing via triangulation. A morph is a simultaneous warp of the image shape and a cross-dissolve of the image colors. The cross-dissolve is the easy part; controlling and doing the warp is the hard part. The warp is controlled by defining a correspondence between the two pictures. The correspondence maps eyes to eyes, mouth to mouth, chin to chin, ears to ears, etc., to get the smoothest transformations possible.  For the triangulations, we use Delaunay triangulation (see Matlab delaunay). We need to generate only one triangulation and use it on both the point sets. The triangulation should be computed at the midway shape (i.e. mean of the two point sets) to lessen the potential triangle deformations.
