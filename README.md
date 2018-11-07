@@ -1,6 +1,8 @@
 [back to Robotics Playground](https://github.com/sandeepgogadi/Robotics-Playground)
 
-# Computer Vision Matlab
+[back to Matlab](https://github.com/sandeepgogadi/Robotics-Playground/tree/master/Matlab)
+
+# [Computer Vision Matlab](https://github.com/sandeepgogadi/Computer-Vision-Matlab)
 
 1. [Laplacian Pyramid for Image Encoding](https://github.com/sandeepgogadi/Computer-Vision-Matlab/tree/master/Laplacian%20Pyramid%20for%20Image%20Encoding)
 2. [Optical Flow](https://github.com/sandeepgogadi/Computer-Vision-Matlab/tree/master/Optical%20Flow)
